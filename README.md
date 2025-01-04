@@ -35,7 +35,7 @@ PackedVehicles/
 
 ```lua
 -- Resource Metadata
-fx_version 'adamant'
+fx_version 'cerulean'
 game 'gta5'
 description ''
 author ''
