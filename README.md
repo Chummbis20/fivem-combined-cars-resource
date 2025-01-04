@@ -91,8 +91,11 @@ data/toyota_tundra_2011_doublecab/
 ```
 stream/toyota_tundra_2011_doublecab/
 ├── vehicle.ytf
-└── vehicle.ytd
+├── vehicle.ytd
+└── additional_mod_files.ytd  # Additional vehicle mod files go here
 ```
+
+Note: All vehicle modification files like additional YTD, YFT files, or any other stream-related vehicle mods should be placed in the stream folder of that specific vehicle, NOT in the data folder. The data folder is strictly for meta files.
 
 ## Notes
 - Keep vehicle folder names consistent between `data` and `stream` directories
